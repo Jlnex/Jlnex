@@ -1,14 +1,10 @@
-- 👋 Hello, I'm Abdullah! (Udemig student)
-- 👀 I’m interested in software industry
-- 🌱 I’m currently learning HTML, CSS, JavaScript, React
-- Skills
-💡 Creativity
-🤝 Teamwork
-🗣 Communication Skills
-📅 Time Management
-🔍 Problem Solving
+👋 Merhaba!
+Ben Abdullah, bir Full Stack Developer olarak JavaScript, React, React Native, Node.js ve TypeScript gibi modern teknolojilerle yazılım projeleri geliştiriyorum. Kodlamada kaliteyi ön planda tutarak, Docker, Postman, Git, GitHub ve Visual Studio Code gibi araçlarla projelerimi daha verimli ve sürdürülebilir hâle getiriyorum.
 
-<!---
-Jlnex/Jlnex is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+🚀 Projeler üreterek ve çalışmalara katkıda bulunarak yazılımda kendimi olabildiğince ileriye taşımayı amaçlıyorum.
+
+🌱 Sürekli öğrenmeye açık, yeniliklere meraklı ve çözüm odaklı biriyim. Her zaman daha iyi kod yazmak, farklı bakış açıları geliştirmek ve yeni teknolojilerle deneyim kazanmak için çabalıyorum.
+
+🤝 Takım çalışmasında güçlü bir oyuncu olarak projelere yaratıcı ve inovatif çözümler sunmayı seviyorum.
+
+💡 Teknolojiyle geleceği şekillendiren bu dünyada, projelerde daha fazla yer almak istiyorum. 
